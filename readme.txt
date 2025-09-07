@@ -68,8 +68,9 @@ SENTIMENT ANALYSIS WEB APP/
 
 ⭐ Show Your Support
 
-If you like this project, give it a star ⭐ on GitHub [link]
+If you like this project, give it a star ⭐ on GitHub https://github.com/AQEEL-AWAN2362/Sentiment-Analysis-Web-App
 and follow me on Hugging Face  [link]
+
 
 
 
