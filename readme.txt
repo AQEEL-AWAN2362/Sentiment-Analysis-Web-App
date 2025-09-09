@@ -18,9 +18,9 @@ or Negative 😡 sentiment using a deep learning model trained on labeled sentim
 
 Model Details : 
 
-Model Type: LSTM /GRU a hybrid model 
-Saved as: sentiment_analysis_model.h
-Tokenizer: Saved as tokenizer.pickle
+Model Type: LSTM /GRU a hybrid model with pretrained fasttext embedding.
+Saved as: sentiment_analysis_model_3.h5
+Tokenizer: Saved as tokenizer_3.pickle
 Input Shape: Padded sequences of 200 tokens
 Output: Binary classification → Positive (1) or Negative (0)
 
@@ -36,7 +36,7 @@ Installation & Usage :
 
 Follow these steps to run the app locally
 1. Clone the Repository
-git clone https://huggingface.co/spaces/<your-username>/sentiment-analysis-app
+git clone https://huggingface.co/spaces/Aqeelengineer/sementic_analysis_web_app
 cd sentiment-analysis-app
 
 2. Create a Virtual Environment (Optional but Recommended)
@@ -53,15 +53,15 @@ Now open like this http (http://localhost:8501) in your browser.
 
 Live Demo :
 
-Try the App on Hugging Face Spaces [link]
+Try the App on Hugging Face Spaces https://huggingface.co/spaces/Aqeelengineer/sementic_analysis_web_app
 
 Folder Structure :
 
 SENTIMENT ANALYSIS WEB APP/
 |__ app/app.py                        # Main Streamlit app
-|__model/sentiment_analysis_model.hy  # Trained deep learning model
-        /tokenizer.pckle              # Tokenizer used for preprocessing
-|__notebooks/sentiment_analysis.ipynb # training notebooks
+|__model/sentiment_analysis_model_3.h5  # Trained deep learning model
+        /tokenizer_3.pckle              # Tokenizer used for preprocessing
+|__sentiment_analysis.ipynb           # training notebooks
 |__requirements.txt                   # Dependencies for Hugging Face
 |__README.md                          # Project documentation
 
@@ -69,7 +69,8 @@ SENTIMENT ANALYSIS WEB APP/
 ⭐ Show Your Support
 
 If you like this project, give it a star ⭐ on GitHub https://github.com/AQEEL-AWAN2362/Sentiment-Analysis-Web-App
-and follow me on Hugging Face  [link]
+and follow me on Hugging Face  https://huggingface.co/spaces/Aqeelengineer/sementic_analysis_web_app
+
 
 
 
