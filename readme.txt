@@ -36,7 +36,7 @@ Installation & Usage :
 
 Follow these steps to run the app locally
 1. Clone the Repository
-git clone https://huggingface.co/spaces/Aqeelengineer/sementic_analysis_web_app
+git clone https://huggingface.co/spaces/Aqeelengineer/sentiment_analysis_web_app
 cd sentiment-analysis-app
 
 2. Create a Virtual Environment (Optional but Recommended)
@@ -53,7 +53,7 @@ Now open like this http (http://localhost:8501) in your browser.
 
 Live Demo :
 
-Try the App on Hugging Face Spaces https://huggingface.co/spaces/Aqeelengineer/sementic_analysis_web_app
+Try the App on Hugging Face Spaces https://huggingface.co/spaces/Aqeelengineer/sentiment_analysis_web_app
 
 Folder Structure :
 
@@ -68,8 +68,9 @@ SENTIMENT ANALYSIS WEB APP/
 
 ⭐ Show Your Support
 
-If you like this project, give it a star ⭐ on GitHub https://github.com/AQEEL-AWAN2362/Sentiment-Analysis-Web-App
-and follow me on Hugging Face  https://huggingface.co/spaces/Aqeelengineer/sementic_analysis_web_app
+If you like this project, give it a star ⭐ on GitHub https://github.com/AQEEL-AWAN2362/sentiment_analysis_web_app
+and follow me on Hugging Face  https://huggingface.co/spaces/Aqeelengineer/sentiment_analysis_web_app
+
 
 
 
